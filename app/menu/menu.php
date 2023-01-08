@@ -7,7 +7,7 @@
         </div> 
         <div class="row justify-content-center">
             <div class="col-lg-4">
-                <img src="../../assets/img/cit.png" width="100%" alt="cit">
+                <img src="../../assets/img/escudo.png" width="100%" alt="cit">
             </div>
         </div> 
     </div>
