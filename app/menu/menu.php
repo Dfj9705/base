@@ -2,7 +2,7 @@
     <div class="container-fluid mt-4 " style="min-height: 80vh;">
         <div class="row text-center mb-2" >
             <div class="col-12">
-                <h1>MODELO ESTANDAR DE APLICACIONES</h1>
+                <h1>MODELO ESTANDAR DE APLICACION</h1>
             </div>
         </div> 
         <div class="row justify-content-center">
